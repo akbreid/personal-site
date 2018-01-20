@@ -12,6 +12,8 @@ A copy of my latest CV can be found [here](Abigail Reid CV 2018.pdf).
 
 Click [here](http://www.linkedin.com/in/abigail-kate-reid) to access my LinkedIn account.
 
+![Image of acf](https://octodex.github.com/images/acf.png)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
