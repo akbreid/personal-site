@@ -7,6 +7,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 # Curriculum Vitae
 
 A copy of my latest CV can be found [here](Abigail Reid CV 2018.pdf).
+
+#LinkedIn
+
+Click [here](www.linkedin.com/in/abigail-kate-reid) to access my LinkedIn account.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
