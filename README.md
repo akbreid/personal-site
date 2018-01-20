@@ -1,8 +1,7 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/akbreid/personal-site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> A graphic representation of data abstracted from the banks of every computer in the human system. Unthinkable complexity. Lines of light ranged in the nonspace of the mind, clusters and constellations of data. Like city lights, receding.
+> - William Gibson (brainyquote.com)
 
 # Curriculum Vitae
 
