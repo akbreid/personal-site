@@ -8,9 +8,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 A copy of my latest CV can be found [here](Abigail Reid CV 2018.pdf).
 
-#LinkedIn
+# LinkedIn
 
-Click [here](www.linkedin.com/in/abigail-kate-reid) to access my LinkedIn account.
+Click [here](http://www.linkedin.com/in/abigail-kate-reid) to access my LinkedIn account.
 
 ### Markdown
 
