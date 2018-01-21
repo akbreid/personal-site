@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+
 
 > A graphic representation of data abstracted from the banks of every computer in the human system. Unthinkable complexity. Lines of light ranged in the nonspace of the mind, clusters and constellations of data. Like city lights, receding.
 > - William Gibson (brainyquote.com)
